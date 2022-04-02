@@ -1,2 +1,3 @@
 /.idea/
-/B26_Git_Branching.iml
+*.iml
+out
